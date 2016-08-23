@@ -2,5 +2,6 @@
 
 long add(int a, int b, int c)
 {
-	return a + b + c;
+	long sum = a + b + c;
+	return sum;
 }
