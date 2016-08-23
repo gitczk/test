@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-long add(int a, int b)
+long add(int a, int b, int c)
 {
-	return a + b;
+	return a + b + c;
 }
